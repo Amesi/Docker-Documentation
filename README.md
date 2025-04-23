@@ -18,3 +18,5 @@ Though errors struck and builds did fail,
 Each fix became another sail.
 Now here I chart what I explore—
 A Docker tale, forevermore.
+
+**Deploy Portainer behind Traefik Proxy:** https://docs.portainer.io/advanced/reverse-proxy/traefik
