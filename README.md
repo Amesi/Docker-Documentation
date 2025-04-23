@@ -1,6 +1,6 @@
 # Docker-Documentation
 
-**A journey into learning Docker.**
+**Resources**
 
 1. Ultimate Docker Guide: https://www.simplehomelab.com/ultimate-docker-server-1-os-preparation/
 
