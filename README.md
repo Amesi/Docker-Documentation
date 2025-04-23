@@ -1,7 +1,8 @@
 # Docker-Documentation
-Learning Docker
 
-Docker Dreams: A Modern Ode
+**Learning Docker**
+
+**Docker Dreams: A Modern Ode**
 
 I wandered lost in dev’s domain,
 With broken scripts and server pain.
